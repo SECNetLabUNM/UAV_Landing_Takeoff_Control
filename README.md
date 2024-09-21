@@ -1,6 +1,3 @@
-# UAV_Landing_Takeoff_Control
-This project explores the use of Deep Reinforcement Learning to enable autonomous landing and takeoff of unmanned aerial vehicles (UAVs) at portable vertiports. The study investigates multi-UAV coordination in dynamic environments, focusing on minimizing flight times and avoiding collisions during simultaneous landing and takeoff operations.
-
 # UAV Autonomous Landing and Takeoff at Portable Vertiports
 
 ## Overview
